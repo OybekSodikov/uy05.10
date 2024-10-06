@@ -81,4 +81,101 @@ header main h1 {
 .section3 {
   margin: 0px auto;
   background: linear-gradient(180deg, rgba(11, 29, 38, 0) 0%, #0b1d26 61.38%);
+}
+
+.section1 {
+  margin-bottom: 200px;
+  padding-top: 200px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 264px;
+}
+.section1 .content {
+  position: absolute;
+  margin-bottom: 400px;
+  margin-left: 150px;
+}
+.section1 .font_size {
+  width: 632px;
+  height: 439px;
+  color: #fff;
+}
+.section1 .color_font {
+  color: #fbd784;
+}
+.section1 p {
+  padding-top: 27px;
+  font-size: 20px;
+  color: #fff;
+}
+.section1 .font_img {
+  width: 566px;
+  height: 720px;
+}
+.section1 .wer {
+  padding-top: 27px;
+  font-size: 50px;
+  color: #fff;
+}
+
+.section2 {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 200px;
+  align-items: center;
+  gap: 130px;
+}
+.section2 .content {
+  position: absolute;
+  margin-bottom: 400px;
+  margin-right: 1200px;
+}
+.section2 .font_wer {
+  width: 632px;
+  height: 439px;
+  margin-left: 150px;
+}
+.section2 .font_item {
+  width: 566px;
+  height: 720px;
+}
+.section2 .font_url {
+  padding-top: 27px;
+  font-size: 50px;
+  color: #fff;
+}
+.section2 p {
+  padding-top: 27px;
+  font-size: 20px;
+  color: #fff;
+}
+.section2 .font_bac {
+  color: #fbd784;
+}
+
+footer {
+  padding-bottom: 40px;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 200px;
+}
+footer h2 {
+  font-size: 32px;
+  color: white;
+}
+footer p {
+  padding-top: 16px;
+  color: white;
+}
+footer .font_footer {
+  width: 303px;
+  padding-top: 24px;
+}
+footer .font_p {
+  padding-top: 88px;
+  opacity: 0.5;
+}
+footer h3 {
+  color: #fbd784;
 }/*# sourceMappingURL=main.css.map */
